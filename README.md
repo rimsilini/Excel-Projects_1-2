@@ -1,3 +1,7 @@
+### **Disclaimer:** The data used in this project is entirely fictional and created for learning purposes only; it does not represent real-world information. ###
+
+---
+
 ## Project -1 - Title: Global Defense Systems Investment Analysis (Excel Project)
 
 ---
